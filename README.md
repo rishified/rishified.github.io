@@ -1,1 +1,0 @@
-# rishified.github.io
