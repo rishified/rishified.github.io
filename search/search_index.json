@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "07/25/18\n It's just glitter on a turd...\n\n\n\n\nSuccess\n\n\n\n\nBack on the internet!",
+            "text": "07/25/18\n \u00a0It's just glitter on a turd...\n\n\n\n\nSuccess\n\n\n\n\nBack on the internet!",
             "title": "Home"
         },
         {
@@ -13,7 +13,7 @@
         {
             "location": "/#072518-its-just-glitter-on-a-turd",
             "text": "Success   Back on the internet!",
-            "title": "07/25/18 It's just glitter on a turd..."
+            "title": "07/25/18 &nbsp;It's just glitter on a turd..."
         },
         {
             "location": "/about/",
