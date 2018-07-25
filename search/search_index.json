@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "Home\n\n\n\n\nSuccess",
+            "text": "07/25/18\n Blog Post Title\n\n\n\n\nSuccess\n\n\n\n\nBack on the internet!",
             "title": "Home"
         },
         {
-            "location": "/#home",
-            "text": "Success",
-            "title": "Home"
+            "location": "/#_1",
+            "text": "",
+            "title": "&nbsp;"
+        },
+        {
+            "location": "/#072518-blog-post-title",
+            "text": "Success   Back on the internet!",
+            "title": "07/25/18 Blog Post Title"
         },
         {
             "location": "/about/",
